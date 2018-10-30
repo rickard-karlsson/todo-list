@@ -1,0 +1,16 @@
+.thingToDo {
+  display: inline-block;
+  width: 350px;
+  border-bottom: 1px solid lightblue;
+}
+
+#wrapper {
+  width: 500px;
+  margin: auto;
+  background-color: aliceblue;
+  padding: 10px;
+}
+
+#inputStuff {
+  margin: 10px;
+}
